@@ -1,6 +1,6 @@
 <!-- Github repo readme -->
 
-This is where you write the repository's description!
+This is the repository for the work in progress game, Light and Dark. Currently it is just documentation.
 
 # Build Instructions
 1. Install the current version of [npm](https://nodejs.org/en/)
