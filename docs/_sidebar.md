@@ -1,3 +1,4 @@
 - [Intro](README.md)
 - [Guidebook](guidebook/)
+  - [Global Metadata](guidebook/metadata.md)
   - [Guides](guidebook/guides/)
