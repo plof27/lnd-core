@@ -5,11 +5,11 @@ The mechanical hook is the play between light and dark.
 ## Metadata
 
 ### Constraints
-- Must be visually apparent to the player (including R/G colorblind players) [required]
-- Game elements must read clearly in both the light and in the dark [required]
+- [required] Must be visually apparent to the player (including R/G colorblind players)
+- [required] Game elements must read clearly in both the light and in the dark
 
 ### Tolerances
-- Should assume very little about the core movement abilities [expected]
+- [expected] Should assume very little about the core movement abilities
 
 ### Uncertainties
 - How can the player control light and dark? What abilities do they have that directly interact with this mechanic?

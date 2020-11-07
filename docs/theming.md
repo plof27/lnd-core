@@ -3,11 +3,11 @@
 ## Metadata
 
 ### Constraints
-- Fun and lighthearted tone [expected]
-- Story elements should be present, but not a focus [expected]
+- [expected] Fun and lighthearted tone
+- [expected] Story elements should be present, but not a focus
 
 ### Tolerances
 - Stub
 
 ### Uncertainties
-- Stub
+- What is the thematic hook?
